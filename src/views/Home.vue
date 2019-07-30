@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <mt-button type="default">default</mt-button>
+    首页
   </div>
 </template>
 
